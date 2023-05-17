@@ -2,3 +2,4 @@ snowflake-connector-python
 streamlit==0.88.0
 pyarrow
 os
+click<8.0
